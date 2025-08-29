@@ -1,6 +1,6 @@
 # 🌟 Wishlist Member Vulnerability PoC
 
-This repository contains a **Proof of Concept (PoC)** for a **Wishlist Member vulnerability** that has been **fixed in the latest version**. The purpose of this PoC is purely **educational and for testing purposes**.
+This repository contains a **Proof of Concept (PoC)** for a **Wishlist Member vulnerability** that affects versions **<= 3.25.1** and has been **fixed in the latest version**. The purpose of this PoC is purely **educational and for testing purposes**.
 
 ---
 
