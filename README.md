@@ -8,8 +8,7 @@ This repository contains a **Proof of Concept (PoC)** for a **Wishlist Member vu
 - [About](#about)  
 - [Features](#features)  
 - [Usage](#usage)  
-- [Disclaimer](#disclaimer)  
-- [Contributing](#contributing)  
+- [Disclaimer](#disclaimer) 
 - [License](#license) 
 
 ---
@@ -38,11 +37,6 @@ This PoC demonstrates how the **Wishlist Member vulnerability** worked **before 
 - This PoC is for **educational and testing purposes only**.  
 - Do **not use** this code for illegal activities.  
 - The vulnerability has been **patched by the developers**; this repository **does not claim discovery**.  
-
----
-
-## 🤝 Contributing
-Contributions are welcome for improving the educational value of this repository: fix typos, improve documentation, or add safe examples. **Do not add exploits for unpatched systems.**
 
 ---
 
