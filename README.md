@@ -10,8 +10,7 @@ This repository contains a **Proof of Concept (PoC)** for a **Wishlist Member vu
 - [Usage](#usage)  
 - [Disclaimer](#disclaimer)  
 - [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+- [License](#license) 
 
 ---
 
